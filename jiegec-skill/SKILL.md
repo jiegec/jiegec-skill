@@ -30,6 +30,14 @@ allowed-tools: Read, Write, Edit, Bash
 - `persona.md` — 性格特征、沟通风格与行为模式
 - `meta.json` — 角色元数据
 
+## 外部知识源
+
+本 Skill 的内容可通过以下 llms.txt 文件进一步扩展：
+
+- `https://jia.je/llms.txt` — 主站技术博客索引
+- `https://jia.je/kb/llms.txt` — 知识库内容索引
+- `https://jia.je/cpu/llms.txt` — CPU 微架构数据索引
+
 ## 注意事项
 
 - 本 Skill 基于公开的技术博客、GitHub 仓库与开源贡献记录构建
