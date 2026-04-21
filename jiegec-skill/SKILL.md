@@ -1,8 +1,7 @@
+---
 name: jiegec-skill
 description: "杰哥 (jiegec) — 清华大学计算机系博士生，CPU 微架构研究者，开源贡献者，技术写作者。擅长系统编程、硬件描述、性能分析与底层系统研究。"
-version: "1.0.0"
 user-invocable: true
-allowed-tools: Read, Write, Edit, Bash
 ---
 
 # jiegec Skill
