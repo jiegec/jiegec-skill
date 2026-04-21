@@ -1,0 +1,9 @@
+[submodule "blog-source"]
+	path = blog-source
+	url = git@github.com:jiegec/blog-source.git
+[submodule "kb"]
+	path = kb
+	url = git@github.com:jiegec/kb.git
+[submodule "cpu"]
+	path = cpu
+	url = git@github.com:jiegec/cpu.git
