@@ -14,12 +14,6 @@ Ask your LLM assistant to install this skill by providing the repository URL:
 Please install the skill from https://github.com/jiegec/jiegec-skill/tree/master/jiegec-skill
 ```
 
-Or if you're using a specific tool:
-
-- **Claude Code**: Ask Claude to load the skill from this repo
-- **OpenClaw**: Use `/dot-skill` and point to this repository
-- **Other LLM tools**: Provide the path to the `jiegec-skill/` directory
-
 ## What's included
 
 - `SKILL.md` — Skill manifest and usage guide
